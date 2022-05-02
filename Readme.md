@@ -1,8 +1,12 @@
 ## Keyboard keymap sources
 
-Custom keymaps for the qmk firmware https://github.com/qmk/qmk_firmware
+Qmk firmware https://github.com/qmk/qmk_firmware
+
+Qmk firmware guide https://docs.qmk.fm/#/
 
 Custom keymaps generated with: https://config.qmk.fm/#/lets_split/rev2/LAYOUT
+
+Let's split guide https://github.com/AlexAvlonitis/lets-split-guide
 
 ### How to use
 
