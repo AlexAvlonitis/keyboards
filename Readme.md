@@ -2,7 +2,7 @@
 
 Custom keymaps for the qmk firmware https://github.com/qmk/qmk_firmware
 
-Custom keymaps generated with: https://config.qmk.fm/
+Custom keymaps generated with: https://config.qmk.fm/#/lets_split/rev2/LAYOUT
 
 ### How to use
 
